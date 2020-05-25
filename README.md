@@ -1,7 +1,5 @@
 # microsoft_python_intro_course
-The final projects for Microsoft's intro course.
-
-The files in this project are from Microsoft's "Introduction to Python: Absolute Beginner" course I found through edX
+The files in this project are from the final projects in Microsoft's "Introduction to Python: Absolute Beginner" course I found through edX
 
 Files contain the original instructions and my code below. 
 File names are from the Jupyter notebook names taken from the course. 
